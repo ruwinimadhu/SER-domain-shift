@@ -1,0 +1,13 @@
+{
+  "feat_len": 58,
+  "n_classes": 8,
+  "dropout": 0.3,
+  "default_tau": 0.6,
+  "tau_by_dataset": {
+    "Female_features.csv": 0.9107999999999999,
+    "Male_features.csv": 0.606375
+  },
+  "temperature_by_dataset": {
+    "Male_features.csv": 0.7897385358810425
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "feat_len": 58,
+  "n_classes": 8,
+  "dropout": 0.3,
+  "finetuned_on": "Male_features.csv"
+}
